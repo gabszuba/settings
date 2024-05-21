@@ -8,8 +8,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-
+![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=flat-square&logo=sql&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 
 
 
